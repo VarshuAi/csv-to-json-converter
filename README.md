@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Fast browser parsing converting CSV lines to structured JSON datasets.
+  name: csv-to-json-converter version: 1.0 type: Repository author: VarshuAi description: >   Fast browser parsing converting CSV lines to structured JSON datasets. primary_tech: CSS
 primary_tech: CSS
 ```
 
